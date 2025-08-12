@@ -25,6 +25,9 @@
 - [贡献指南](https://docs.atlasos.net/contributions/)
 - [品牌规范](https://docs.atlasos.net/branding/)
 
+## 📕 项目介绍
+该项目汉化了AtlasOS储存库中的Readme文件，仅此而已
+
 ## 🤔 什么是Atlas？
 
 AtlasOS（简称Atlas）是一个开源项目，通过便捷地应用隐私保护、易用性优化和性能提升设置来增强Windows功能，同时保持系统的功能完整性与[可定制性](https://docs.atlasos.net/getting-started/post-installation/atlas-folder/general-configuration/)。
