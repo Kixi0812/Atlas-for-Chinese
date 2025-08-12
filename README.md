@@ -26,7 +26,7 @@
 - [品牌规范](https://docs.atlasos.net/branding/)
 
 ## 📕 项目介绍
-该项目汉化了AtlasOS储存库中的Readme文件，仅此而已
+本项目对AtlasOS存储库中的Readme文件进行了汉化，除此之外无其他内容。
 
 ## 🤔 什么是Atlas？
 
